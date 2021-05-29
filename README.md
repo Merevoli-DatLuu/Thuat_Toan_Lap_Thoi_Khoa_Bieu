@@ -75,6 +75,14 @@ Chi tiết: [Chi tiết ràng buộc](./Docs/11%2004%202020_Danh%20sach%20cac%20
 
 ## Giải thuật
 
+<div align="center">
+
+<img src="./Reviews/algo_main.png" width="80%">
+<br> <br> <br> <br>
+<img src="./Reviews/algo_preprocess.png" width="80%">
+
+</div>
+
 + **Tiền xử lý**: Khởi tạo trạng thái bắt đầu cho TKB lớp và giáo viên theo các tiêu chí ưu tiên.
 + **Cải Thiện 1**: Làm gọn TKB và Thêm PC chưa xếp (không quan tâm đến điểm vi phạm, có thể làm tăng hoặc giảm điểm vi phạm)
 + **Cải Thiện 2**: Làm giảm điểm vi phạm
